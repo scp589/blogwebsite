@@ -1,0 +1,16 @@
+#myInput {
+    background-image: url('searchicon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 5px solid #dddddd;
+    margin-bottom: 12px;
+    border-radius: 10px;
+  }
+  #myUL{
+      overflow-y: auto;
+      height: 77vh;
+  }
+  

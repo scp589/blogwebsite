@@ -1,0 +1,8 @@
+.overflow1{
+    overflow: hidden;
+    height: 90vh;
+}
+.overflow2{
+    overflow-y: auto;
+    height: 100%;
+}
